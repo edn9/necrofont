@@ -5,4 +5,4 @@ Made with [Inkscape](https://inkscape.org/en/) and [IcoMoon](https://icomoon.io/
 
 # icon's list:
 <h3 align="center"><img src="http://i.imgur.com/rOJ59DS.png" width="200px"></h3>
-You can check the font with [gucharmap](https://wiki.gnome.org/action/show/Apps/Gucharmap?action=show&redirect=Gucharmap).
+You can check the font with Gnome-character-map.
