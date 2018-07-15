@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="270.93332mm"
+   height="270.93332mm"
+   viewBox="0 0 270.93332 270.93332"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="arduino2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="222.85269"
+     inkscape:cy="318.08411"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1356"
+     inkscape:window-height="737"
+     inkscape:window-x="5"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada 2">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:37.79527664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 512.14648 37.070312 A 470.74246 473.77287 0 0 0 41.404297 510.8418 A 470.74246 473.77287 0 0 0 512.14648 984.61523 A 470.74246 473.77287 0 0 0 982.89062 510.8418 A 470.74246 473.77287 0 0 0 512.14648 37.070312 z M 313.61719 348.62695 C 387.76352 348.37688 442.44727 399.72656 442.44727 399.72656 L 515.8457 473.68164 L 589.64453 399.72656 C 589.64453 399.72656 644.62423 348.37688 719.17383 348.62695 C 736.3776 348.68467 754.62367 351.49007 773.47656 358.30859 C 874.02553 394.67411 902.12504 477.15793 898.40039 551.24805 C 894.33781 632.0602 818.22228 711.86328 738.94336 711.86328 C 642.70912 711.86328 640.99768 718.01021 515.8457 594.02148 C 391.37073 718.01012 389.66873 711.86328 293.95508 711.86328 C 215.10492 711.86328 139.40194 632.06024 135.36133 551.24805 C 131.65682 477.15797 159.60427 394.67409 259.60938 358.30859 C 278.36031 351.49006 296.5065 348.68466 313.61719 348.62695 z M 314.80859 430.7168 C 305.60968 430.74844 295.85223 432.28833 285.77148 436.02734 C 232.00752 455.96877 216.98302 501.19803 218.97461 541.82617 C 221.14689 586.14038 261.8455 629.90234 304.23633 629.90234 C 362.88792 629.90234 355.82893 634.33307 455.75391 532.41016 L 384.06836 458.73828 C 384.06836 458.73828 354.67057 430.57966 314.80859 430.7168 z M 717.97656 430.7168 C 677.89777 430.5796 648.33984 458.73828 648.33984 458.73828 L 576.26562 532.41016 C 676.73405 634.33308 669.63685 629.90234 728.60742 629.90234 C 771.22878 629.90234 812.14792 586.14038 814.33203 541.82617 C 816.33442 501.19803 801.22822 455.96877 747.17188 436.02734 C 737.03632 432.28833 727.22548 430.74843 717.97656 430.7168 z M 715.5332 469.44336 C 722.90331 469.61988 730.21075 474.10996 732.96484 485.92969 L 733.11328 515.45898 L 759.29688 515.38867 C 776.68423 515.33236 788.43304 545.6246 761.57031 552.76367 L 733.30078 552.61914 L 733.43945 580.37695 C 733.53659 597.76418 703.27254 609.58415 696.07031 582.73828 L 696.1543 552.42969 L 662.57617 552.25781 C 649.02464 551.98417 637.8164 521.8722 664.84766 515.64062 L 696.25391 515.55664 L 696.3418 483.74219 C 696.47829 476.11913 706.05735 469.2164 715.5332 469.44336 z M 372.49414 513.11523 C 389.88153 513.05892 401.62835 543.35116 374.76562 550.49023 L 275.77148 549.98633 C 262.21998 549.71269 251.01364 519.59876 278.04492 513.36719 L 372.49414 513.11523 z "
+       transform="scale(0.26458333)"
+       id="path22" />
+  </g>
+</svg>
