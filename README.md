@@ -6,6 +6,6 @@ Made with [Inkscape](https://inkscape.org/en/) and [IcoMoon](https://icomoon.io/
 # icon's list:
 ![scrot1](http://i.imgur.com/Q8x5AEz.png "scrot1.png")
 
-To see if its working, use `printf "\uE910` in your terminal.
+To see if its working, use `printf "\uE910"` in your terminal.
 
 You can check the font with [Gnome-character-map](https://wiki.gnome.org/action/show/Apps/Gucharmap?action=show&redirect=Gucharmap).
